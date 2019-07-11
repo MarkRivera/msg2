@@ -1,0 +1,3 @@
+{
+	"mongoURI": "mongodb+srv://Starlord:1991Mark@cluster0-kqf0t.mongodb.net/textme?retryWrites=true&w=majority"
+}
