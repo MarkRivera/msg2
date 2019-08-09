@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css?family=Nunito+Sans:400,700");
+
+* {
+	box-sizing: border-box;
+}
+
+#root {
+	height: 100vh;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	font-weight: 400;
+	font-family: "Nunito Sants", sans-serif;
+}
